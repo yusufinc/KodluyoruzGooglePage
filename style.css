@@ -56,8 +56,8 @@ input[value="Oturum Açın"]:hover {
   box-shadow: none;
   border-radius: 24px;
   margin: 0 auto;
-  width: auto;
-  max-width: 584;
+  width: 625px;
+  max-width: 584px;
 }
 
 .yakın-area {
@@ -95,6 +95,7 @@ input[value="Oturum Açın"]:hover {
 .foot {
   position: fixed;
   bottom: 0;
+  left: 0;
 }
 .foot ul {
   padding: 0;
