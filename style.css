@@ -136,3 +136,9 @@ input[value="Oturum Açın"]:hover {
 .fo ul li a:hover {
   text-decoration: underline;
 }
+
+.search-area:hover,
+input[value="Kendimi Şanslı Hissediyorum"]:hover,
+input[value="Google'da Ara"]:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
